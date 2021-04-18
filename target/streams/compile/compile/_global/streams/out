@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/t.tatsuki/sbt/scala-sandbox-master/src/main/scala/structures/Constructure.scala:5:9: local val filename in method main is never used[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val filename = {[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
